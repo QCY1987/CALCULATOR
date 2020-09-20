@@ -20,7 +20,6 @@ public class ArabicToRoman {
                 i++;
             }
         }
-
         return sb.toString();
     }
 }
